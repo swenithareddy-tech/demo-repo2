@@ -1,2 +1,5 @@
-## DEmo 2
+# DEmo 2
 some text
+
+## Local development
+1. Open index.html in your browser.
